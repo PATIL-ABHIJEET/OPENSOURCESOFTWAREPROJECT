@@ -7,6 +7,7 @@ STUDENT_NAME="Abhijit Patil"
 SOFTWARE_CHOICE="Python" 
 
 # --- System info ---
+
 KERNEL=$(uname -r)
 USER_NAME=$(whoami)
 UPTIME=$(uptime -p)
@@ -17,6 +18,7 @@ CURRENT_DATE=$(date +"%Y-%m-%d %H:%M:%S")
 LICENSE_MSG="This operating system is primarily covered by the GNU General Public License (GPL)."
 
 # --- Display ---
+
 echo "================================"
 echo " Open Source Audit — $STUDENT_NAME"
 echo "================================"
