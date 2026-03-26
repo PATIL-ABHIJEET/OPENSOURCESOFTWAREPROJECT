@@ -3,8 +3,8 @@
 # Author: [Your Name] | Course: Open Source Software
 
 # --- Variables ---
-STUDENT_NAME="Abhijeet Balaji Patil"        # Fill in your name
-SOFTWARE_CHOICE="Python"             # Fill in your chosen software
+STUDENT_NAME="Abhijit Patil" 
+SOFTWARE_CHOICE="Python" 
 
 # --- System info ---
 KERNEL=$(uname -r)
