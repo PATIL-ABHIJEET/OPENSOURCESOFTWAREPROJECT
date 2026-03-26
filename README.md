@@ -4,7 +4,7 @@ This repository includes five shell scripts along with a structured report outli
 
 ## Developer Information
 
-* **Student Name**: Abhijeet Balaji Patil
+* **Student Name**: Abhijit Patil
 * **Registration Number**: 24BCE10110
 * **Chosen Software**: Python
 
